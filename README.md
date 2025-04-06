@@ -12,6 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
+*Description of the API Integration and data visualization*
 
 # COVID-19 Data Processing and Visualization Code Analysis
 
